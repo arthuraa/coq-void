@@ -17,9 +17,7 @@ older ones as well.
 
 To compile, do
 
-    coq_makefile -f _CoqProject -o Makefile
     make
-    make install
 
 You can import the library with
 
