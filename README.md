@@ -19,6 +19,10 @@ To compile, do
 
     make
 
+Then, you can install by typing
+
+    make install
+
 You can import the library with
 
     From void Require Import void.
